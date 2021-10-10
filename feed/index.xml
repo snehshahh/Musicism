@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>musicism</title>
+	<title>preachtheplay</title>
 	<atom:link href="https://snehshahh.github.io/Musicism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://snehshahh.github.io/Musicism</link>
 	<description>Featuring artists,from underrted to classics!</description>
-	<lastBuildDate>Sat, 02 Oct 2021 09:00:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Oct 2021 08:31:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
