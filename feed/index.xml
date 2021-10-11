@@ -12,37 +12,12 @@
 	<atom:link href="https://snehshahh.github.io/Musicism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://snehshahh.github.io/Musicism</link>
 	<description>Featuring artists,from underrated to the classics!</description>
-	<lastBuildDate>Mon, 11 Oct 2021 05:07:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Oct 2021 04:51:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>.                          About us!                         .</title>
-		<link>https://snehshahh.github.io/Musicism/2021/10/11/about-us/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 11 Oct 2021 04:47:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://snehshahh.github.io/Musicism/?p=37</guid>
-
-					<description><![CDATA[The Website features artists, songs ,&#160; recommend tutorials, Suggestions, breakdown by the artists themselves, stage performances, live and Raw recordings from every corner of Social &#8230;]]></description>
-										<content:encoded><![CDATA[
-<p class="has-text-align-center">The Website features artists, songs ,&nbsp; recommend tutorials, Suggestions, breakdown by the artists themselves, stage performances, live and Raw recordings from every corner of Social Media!<br>From the artists who have less audience to the classics.<br>There are spotify links, Instagram links to all the artist mentioned for the same to show them your support!<br>Enjoy&nbsp;and <em>preachtheplay</em></p>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://fonts.gstatic.com/s/e/notoemoji/13.1.1/2764/72.png" alt="&#x2764;" width="20" height="20"/></figure></div>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
